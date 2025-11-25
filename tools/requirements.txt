@@ -1,0 +1,10 @@
+# Python dependencies for automotive security testing tools
+# Install with: pip3 install -r requirements.txt
+
+# HTTP requests and SSL handling
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Terminal color output
+colorama>=0.4.6
+
